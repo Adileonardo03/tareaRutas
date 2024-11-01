@@ -1,0 +1,17 @@
+{
+    "calculadora": {
+        "operaciones": [
+            {"nombre": "suma", "descripcion": "Suma dos números"},
+            {"nombre": "resta", "descripcion": "Resta dos números"},
+            {"nombre": "multiplicacion", "descripcion": "Multiplica dos números"},
+            {"nombre": "division", "descripcion": "Divide dos números"}
+        ]
+    },
+    "lectorqr": {
+        "instrucciones": [
+            {"paso": 1, "descripcion": "Abre la cámara o escáner QR."},
+            {"paso": 2, "descripcion": "Apunta al código QR."},
+            {"paso": 3, "descripcion": "Espera a que se escanee."}
+        ]
+    }
+}
